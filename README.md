@@ -48,7 +48,7 @@ A website created for **Project World Roleplay**, a SA:MP roleplay server, desig
 
 A simple **Python-based warehouse management system** that runs through the terminal without a frontend interface.
 
-**Tech Stack:** `Python`
+**Tech Stack:** `Python` <img src="https://skillicons.dev/icons?i=python" />
 
 ---
 
@@ -56,4 +56,4 @@ A simple **Python-based warehouse management system** that runs through the term
 
 A modern **frontend website design** created for JavaLuxe, focusing on the visual presentation and user interface of the website.
 
-**Tech Stack:** `HTML` `CSS` `JavaScript`
+**Tech Stack:** `Java` <img src="https://skillicons.dev/icons?i=java" />
