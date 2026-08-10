@@ -11,7 +11,7 @@ Hi! I'm **Nikko Aldren (Niks)**, a BSIT student and aspiring developer intereste
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+   <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js" />
 </p>
 
 **React.js • Tailwind CSS • HTML • CSS • JavaScript • TypeScript**
@@ -40,7 +40,7 @@ Hi! I'm **Nikko Aldren (Niks)**, a BSIT student and aspiring developer intereste
 
 A website created for **Project World Roleplay**, a SA:MP roleplay server, designed to present the server and its features through a modern web interface.
 
-**Tech Stack:** `HTML` `CSS` `JavaScript` <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js" />
+**Tech Stack:** `HTML` `CSS` `JavaScript` <img src="https://skillicons.dev/icons?i=html,css,js" />
 
 ---
 
