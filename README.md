@@ -1,8 +1,10 @@
 # Hi, I'm Nikko (Niks) 👋
 
 <p align="center">
- <img width="256" height="256" alt="pixelLab" src="https://github.com/user-attachments/assets/e5aaff89-2aa0-431c-9cd0-0efa61d5d983" />
+<img width="530" height="400" alt="tb2ps924mxqa1" src="https://github.com/user-attachments/assets/5b6f3cdc-db84-4560-9162-d5c85347dd74" />
 </p>
+
+
 
 
 ## 👨‍💻 About Me
