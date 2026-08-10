@@ -1,7 +1,7 @@
 # Hi, I'm Nikko (Niks) 👋
 
 <p align="center">
-  <img src="pixelLab.png" width="200" alt="Niks Pixel Character">
+  <img src="pixelLab.png" width="200" height="200" alt="Niks Pixel Character">
 </p>
 
 
