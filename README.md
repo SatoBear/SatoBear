@@ -1,6 +1,6 @@
 # Hi, I'm Nikko (Niks) 👋
 
-<p class="center">
+<p align="center">
 <img width="530" height="400" alt="tb2ps924mxqa1" src="https://github.com/user-attachments/assets/5b6f3cdc-db84-4560-9162-d5c85347dd74" />
 </p>
 
