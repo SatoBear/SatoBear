@@ -14,7 +14,7 @@ Hi! I'm **Nikko Aldren (Niks)**, a BSIT student and aspiring developer intereste
    <img src="https://skillicons.dev/icons?i=react,tailwind,figma,html,css,js" />
 </p>
 
-**React.js • Tailwind CSS • HTML • CSS • JavaScript • TypeScript**
+**React.js • Tailwind CSS • Figma • HTML • CSS • JavaScript • TypeScript**
 
 ### Backend
 
