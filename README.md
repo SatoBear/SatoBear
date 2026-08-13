@@ -57,8 +57,8 @@ A simple **Python-based warehouse management system** that runs through the term
 
 ---
 
-### 💎 JavaLuxe
+### 💎 JavaLuxe - Hotel Booking System
 
-A modern **frontend website design** created for JavaLuxe, focusing on the visual presentation and user interface of the website.
+A modern **frontend design** created for JavaLuxe, focusing on Hotel Booking System that can user book other rooms and have a realtime booking 
 
 **Tech Stack:** `Java` <img src="https://skillicons.dev/icons?i=java" />
