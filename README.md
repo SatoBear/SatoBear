@@ -37,9 +37,8 @@ Hi! I'm **Nikko Aldren (Niks)**, a BSIT student and aspiring developer intereste
 
 **MySQL • XAMPP • phpMyAdmin**
 
-### Git 
 <p>
-   <img src="https://skillicons.dev/icons>i=git"/>
+   <img src="https://skillicons.dev/icons?i=git"/>
 </p>
 
 **GIT**
